@@ -1,0 +1,66 @@
+.name {
+	font-family: Sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+}
+
+.Tel {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-variant: normal;
+}
+
+.email {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-variant: normal;
+}
+
+
+body {
+	width: 800px;
+	position: relative;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	background-color: #FFFFFF;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 30px;
+	margin-left: auto;
+	height: auto;
+}
+
+p {
+	text-align:justify;
+	font-weight: normal;
+	}
+
+summary {
+	text-indent:2em;
+	font-weight: bold;
+}
+
+td
+  {
+  vertical-align:top;
+  }
+
+td.Job {
+	text-align:left;
+	width: 600px;
+	}
+td.time {
+	text-align:right;
+	width: 200px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+h1 {
+	font-size:20px;	
+	font-weight: bold;
+	font-variant: normal;
+}
